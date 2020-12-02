@@ -1,0 +1,17 @@
+.img-circle .photo {
+  border: 2px solid #AD235E;
+    border-radius: 150px;
+    width: 200px;
+    background-position: center;
+}
+
+.layout-boxed {
+  background: url('../img/boxed-bg.jpg') repeat fixed;
+}
+
+.profile-user-img {
+  margin: 0 auto;
+  width: 100px;
+  padding: 3px;
+  border: 3px solid #d2d6de;
+}

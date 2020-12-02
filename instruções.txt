@@ -1,0 +1,14 @@
+* A pasta /gerenciamento-de-usuarios-poo não contém a aplicação ligada ao backend, 
+os registros ficam salvos apenas no localstrorage. É um projeto separado.
+
+* controller -> \Projeto POO\client-server\public\controllers
+* model -> \Projeto POO\client-server\public\models
+
+- Para rodar a aplicação:
+
+* Instalar as dependências das pastas /client-server e /restapi com npm install.
+
+* Para executar, digite o comando "node index" na pasta /restapi e "npm start" na 
+pasta /client-server. 
+
+* O serviço roda em http://localhost:3000/
